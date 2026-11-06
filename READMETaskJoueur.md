@@ -7,10 +7,12 @@ Petit projet Unity (URP) où un personnage en forme de capsule se déplace sur u
 ## Aperçu
  
 ### Vue de la scène (éditeur)
-![Vue de la scène dans l'éditeur Unity](Screenshots/scene-editeur.png)
+<img width="1536" height="784" alt="image" src="https://github.com/user-attachments/assets/3140e9d6-c181-42bb-a193-716ea905b809" />
+
  
 ### Vue en jeu
-![Vue de la caméra en jeu](Screenshots/vue-jeu.png)
+<img width="1221" height="688" alt="image" src="https://github.com/user-attachments/assets/41dfaefb-5cc5-47a2-9dc1-01be6252fe03" />
+
  
 ---
  
